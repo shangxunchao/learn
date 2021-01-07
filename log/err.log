@@ -1,0 +1,54 @@
+08-14 14:37:16.902 [main] ERROR com.qiandao.test.Main
+没有权限
+
+java.lang.IllegalAccessException: Class com.qiandao.test.Main can not access a member of class com.qiandao.test.Person with modifiers "private"
+	at sun.reflect.Reflection.ensureMemberAccess(Reflection.java:102) ~[?:1.8.0_211]
+	at java.lang.reflect.AccessibleObject.slowCheckMemberAccess(AccessibleObject.java:296) ~[?:1.8.0_211]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:288) ~[?:1.8.0_211]
+	at java.lang.reflect.Field.set(Field.java:761) ~[?:1.8.0_211]
+	at com.qiandao.test.Main.main(Main.java:20) [myTestWorkspace/:?]
+08-14 14:38:11.705 [main] ERROR com.qiandao.test.Main
+没有权限
+
+java.lang.IllegalAccessException: Class com.qiandao.test.Main can not access a member of class com.qiandao.test.Person with modifiers "private"
+	at sun.reflect.Reflection.ensureMemberAccess(Reflection.java:102) ~[?:1.8.0_211]
+	at java.lang.reflect.AccessibleObject.slowCheckMemberAccess(AccessibleObject.java:296) ~[?:1.8.0_211]
+	at java.lang.reflect.AccessibleObject.checkAccess(AccessibleObject.java:288) ~[?:1.8.0_211]
+	at java.lang.reflect.Field.set(Field.java:761) ~[?:1.8.0_211]
+	at com.qiandao.test.Main.main(Main.java:20) [myTestWorkspace/:?]
+08-23 14:24:08.058 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:29:37.937 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:30:27.861 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:31:33.698 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:31:47.218 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:32:00.083 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:32:17.706 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:58:55.364 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:59:16.833 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 10:59:34.775 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 11:21:02.790 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
+08-27 11:21:17.498 [main] ERROR com.qiandao.test.Main
+不存在该产品信息，支付成功通知失败。groupPurchase={}
+
