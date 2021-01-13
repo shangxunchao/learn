@@ -39,5 +39,9 @@
     <orderEntry type="library" name="spring-core-5.3.0" level="project" />
     <orderEntry type="library" name="cglib-3.3.0" level="project" />
     <orderEntry type="library" name="asm-3.3.1" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.11" level="project" />
+    <orderEntry type="library" name="lombok-1.18.11.97" level="project" />
+    <orderEntry type="library" name="guava-20.0-sources" level="project" />
+    <orderEntry type="library" name="guava-20.0" level="project" />
   </component>
 </module>
