@@ -10,6 +10,7 @@ import java.util.Stack;
 /**
  * <p>TODO
  * </p>
+ * <href>https://www.cnblogs.com/zhi-leaf/p/10813048.html</href>
  *
  * @author shangxunchao
  * @date 2021/2/20 16:12
@@ -156,9 +157,38 @@ public class TreeSort {
 		}
 	}
 
-	class TreeNode {
+	public static void main(String[] args) {
+		TreeSort treeSort = new TreeSort();
+		treeSort.inOrderTraverse(root);
+	}
+
+	private static TreeNode root;
+
+	static {
+		root = new TreeNode("G");
+		TreeNode D = new TreeNode("D");
+		TreeNode M = new TreeNode("M");
+		root.left = D;
+		root.right = M;
+		TreeNode A = new TreeNode("A");
+		TreeNode F = new TreeNode("F");
+		D.left = A;
+		D.right = F;
+		TreeNode H = new TreeNode("H");
+		TreeNode Z = new TreeNode("Z");
+		M.left = H;
+		M.right = Z;
+		TreeNode E = new TreeNode("E");
+		F.left = E;
+	}
+
+	static class TreeNode {
 		String val;
 		TreeNode left;
 		TreeNode right;
+
+		public TreeNode(String val) {
+			this.val = val;
+		}
 	}
 }
