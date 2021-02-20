@@ -1,12 +1,11 @@
 /*
  * Copyright (C) 2021 VIPKID, Inc. All Rights Reserved.
  */
-package com.qiandao;
+package com.qiandao.thread;
 
 import com.alibaba.fastjson.JSON;
 import com.google.common.base.Stopwatch;
 import com.qiandao.model.Student;
-import com.qiandao.thread.ThreadPoolUtils;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -23,9 +22,9 @@ import java.util.concurrent.TimeUnit;
  * @author shangxunchao
  * @date 2021/1/7 11:11
  **/
-public class MainDemo {
+public class ThreadMain {
 
-	private static Log log = LogFactory.getLog(MainDemo.class);
+	private static Log log = LogFactory.getLog(ThreadMain.class);
 	private static Random random = new Random();
 
 	public static void main(String[] args) {

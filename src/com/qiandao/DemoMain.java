@@ -3,9 +3,13 @@
  */
 package com.qiandao;
 
+import com.alibaba.fastjson.JSON;
+import org.junit.Test;
+
+import java.io.UnsupportedEncodingException;
 import java.util.*;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 /**
@@ -17,36 +21,89 @@ import java.util.stream.Collectors;
  **/
 public class DemoMain {
 
-	public static void main(String[] args) throws InterruptedException {
-		ExecutorService ex = Executors.newCachedThreadPool();
+	private static final Pattern PATTERN = Pattern.compile("_selector_\\.([a-z]+)\\.([a-z]+)\\.(\\S+)");
+	private static final Pattern CONFIG_PATTERN = Pattern.compile("(?<=ha=)(\\([^=()]+=[^=()]+\\))+");
+	private static final Pattern KV_PATTEN = Pattern.compile("\\((?<key>[^=()]+)=(?<value>[^=()]+)\\)");
 
-		for (int i = 0; i < 5; i++) {
-			System.out.println(i + "  " + " --");
-			ex.submit(new Runnable() {
-
-				@Override
-				public void run() {
-					for (int j = 0; j < 10; j++) {
-						if (j % 2 == 1) {
-							System.out.println("error");
-							throw new RuntimeException();
-						}
-						System.out.println(j + " ===========");
-						System.out.println(Thread.currentThread().getName() + j);
-					}
-
-				}
-			});
+	public static void main(String[] args) throws UnsupportedEncodingException {
+		System.out.println(DemoMain.class.getCanonicalName());
+		StringBuilder sb = new StringBuilder("UnsupportedEncodingException");
+		System.out.println(sb.reverse());
+		try {
+			//new URL("");
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
-		ex.shutdown();
-		Thread.sleep(5000);
-		System.out.println("end");
+		Map<String, Integer> map = new HashMap<String, Integer>() {{
+			put("12", 12);
+		}};
+		new String("");
+		Integer te = map.putIfAbsent("123", 56);
+		System.out.println(te);
+		System.out.println(map.putIfAbsent("123", 567));
+		System.out.println(map.get("123"));
+		System.out.println(map.put("1245", 564));
+		System.out.println(JSON.toJSONString("a||b||c".split("\\|\\|")));
+		System.out.println(JSON.toJSONString(getConfigParams("(url=http://internal.vkredis-api.vipkid.com.cn)(idc=ALIYUN),(url=http://vkredis-api.ten-internal.vipkid.com.cn)(idc=TEN),ha=(failover=true)(failfast=false)(retryCount=3)(retryInterval=1000)(healthCheckInterval=10000)")));
 	}
 
+	private static void print() {
+		Matcher matcher = PATTERN.matcher("_selector_.pre.default.vkschedule.server.cluster.nodes");
+		System.out.println(matcher.group(3));
+	}
 
+	public static Map<String, String> getConfigParams(final String url) {
+		final Matcher configMatcher = CONFIG_PATTERN.matcher(url);
+
+		if (!configMatcher.find()) {
+			return new HashMap<>();
+		}
+
+		final String config = configMatcher.group(0);
+		final Matcher kvMatcher = KV_PATTEN.matcher(config);
+
+		final Map<String, String> params = new HashMap<>();
+		while (kvMatcher.find()) {
+			params.put(kvMatcher.group("key"), kvMatcher.group("value"));
+		}
+		return params;
+	}
+
+	@Test
 	public void demo() {
+
+		List<Integer> list = new ArrayList<Integer>() {{
+			add(1);
+		}};
+		Map<String, ?> map = new HashMap<String, String>() {{
+			put("12", "34");
+			put("56", "78");
+		}};
+		for (Map.Entry<String, ?> entry : map.entrySet()) {
+			System.out.println(entry.getValue());
+		}
+		C c = new C();
+		c.setBTest((B) (f, q) -> {
+			return f + q;
+		});
 		String re = "(1)";
 		System.out.println(isValid("()[]{}"));
+	}
+
+	interface A {
+
+	}
+
+	interface B extends A {
+		Integer addTest(Integer a, Integer b);
+	}
+
+	class C {
+		private B b;
+
+		public void setBTest(B b) {
+			this.b = b;
+		}
 	}
 
 	public boolean isValid2(String s) {

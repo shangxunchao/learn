@@ -51,4 +51,3 @@ java.lang.IllegalAccessException: Class com.qiandao.test.Main can not access a m
 
 08-27 11:21:17.498 [main] ERROR com.qiandao.test.Main
 不存在该产品信息，支付成功通知失败。groupPurchase={}
-
