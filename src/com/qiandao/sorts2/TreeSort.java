@@ -160,6 +160,8 @@ public class TreeSort {
 	public static void main(String[] args) {
 		TreeSort treeSort = new TreeSort();
 		treeSort.inOrderTraverse(root);
+		System.out.println("======================");
+		treeSort.postOrderTraverse2(root);
 	}
 
 	private static TreeNode root;

@@ -45,6 +45,14 @@ public class adsdsa {
 		if (temp2 == 30 * 24 * 3600 * 1000) {
 			System.out.println("ok2");
 		}
+		System.out.println("-----------------------");
+		HashMap map = new HashMap();
+		map.put("1", "s1");
+		map.put("2", "s2");
+		map.keySet().forEach(job -> {
+			System.out.println(job);
+		});
+		System.out.println(String.format("http://%1$s:%2$s/vkschedule/node/register", "11", "22"));
 	}
 
 	@Test
