@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3b97100-c275-4e08-bc2f-eb38201e4810" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/learn_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/learn_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib___2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MtEAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/DistributedLockUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/MainDenmo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/WedUe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/aa/za/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/aa/za/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/aa/za/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/aa/za/CStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/abstract2/test/Jredis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/abstract2/test/Luccen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/abstract2/test/Redis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/adsdsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/big/decimal/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/constant/VipkidOrg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/delayqueue/TaskConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/delayqueue/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/delayqueue/TaskMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/adapter/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/adapter/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/adapter/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/adapter/WildTurkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/builder/AbstractStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/builder/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/chain/of/responsibility/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/Milk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/factory/method/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/factory/method/ConcreteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/factory/method/ConcreteFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/factory/method/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/StatisticsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/prototype/ConcretePrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/proxy/HighResolutionImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/proxy/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/proxy/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/proxy/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/singleton/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/singleton/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/strategy/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/strategy/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/strategy/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/strategy/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/template/method/CaffeineBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/template/method/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/template/method/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/template/method/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/enums/IconUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/enums/IsDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/enums/TestOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/id/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/CustomThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/InterruptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/MutilThreadShareVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/ThreadInterruptedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/thread/WaitnotifyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java/timestamp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/Java8GroupingBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/Java8StreamPartialExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/Java8Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/PeekParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/jedis/RedisJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/lambda/InterfaceUnVoidWithNoParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/lambda/InterfaceUnVoidWithParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/lambda/InterfaceWithNoParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/lambda/InterfaceWithParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/lambda/impl/TestJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/AD1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/D3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/MQTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/dynamic/proxy/cglib/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/dynamic/proxy/cglib/MyMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/dynamic/proxy/cglib/UserManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/dynamic/proxy/jdk/LogHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/proxyStatic/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/proxyStatic/impl/UserManagerImplProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/thread/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/thread/FutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/log/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/StudyPlanQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/proxy/dynamic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/proxy/dynamic/MyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/proxy/target/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/proxy/target/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/proxy/target/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/hungry/SingleTonEhangshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/hungry/SingletonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/lazy/SingleTonLhangshi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/lazy/SingleTonLhangshiSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/lazy/SingletonDoubleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/lazy/SingletonHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/single/instance/lazy/VolatileSingletonDoubleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/ContinuousPositiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/FindFirstOneChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/MinimumCostPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/TopKHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/AlgorithmVs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/FindGreatSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/FindMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/LinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/MoreThanHalfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/StringSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/SumSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/TreeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/TwoBigNubmerAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/UglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/ma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/HeerSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/PubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/Quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/old/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/ConstDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/as.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/asd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/statict/asds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/test/Java8Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/test/LearnJavaIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/test/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/ThreadMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/ThreadPoolUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/jdk/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/local/VKWebContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/pool/TestThreadPoolCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/pool/TestThreadPoolCallableSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/pool/TestThreadPoolExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/pool/TestThreadPoolSubmit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/pool/readMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/schedule/ConfigPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/schedule/DynamicConfLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/thread/schedule/ScheduleWithFixedDelayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/tree/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/util/encod/Encoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/util/id/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/util/log/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main$ma1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MtEAT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DistributedLockUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/MainDenmo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/aa/za/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/aa/za/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/aa/za/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/aa/za/CStatic$CCStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/aa/za/CStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$ch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa$fa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/adsdsa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/constant/VipkidOrg$Org.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/constant/VipkidOrg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/singleton/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/id/SnowflakeIdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/MutilThreadShareVariable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/MutilThreadShareVariable$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataInc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/MutilThreadShareVariable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/timestamp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/Java8GroupingBy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/PeekParallel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main$RedisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/UserManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/jdk/LogHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/proxy/dynamic/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/proxy/dynamic/MyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/proxy/target/HelloService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/proxy/target/HelloServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/proxy/target/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/Toy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/Toy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/Toy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingletonDoubleCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingletonHolder$Holder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/ContinuousPositiveSequence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/FindFirstOneChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/MinimumCostPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/TopKHeight$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/TopKHeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/AlgorithmVs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/FindGreatSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/FindMedian$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/FindMedian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/LinkedNode$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/LinkedNode$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/LinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/Main$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/MoreThanHalfNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/PrintMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/StringSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/SumSolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/TreeSort$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/TreeSort$TreeNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/TreeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/TwoBigNubmerAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/add/UglyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/ma$ad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/ma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/HeapSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/HeerSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/PubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/Quick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/sorts/old/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Java8Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/StreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/MyCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/jdk/ThreadPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/local/VKWebContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolCallable$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolCallableSuccess$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolCallableSuccess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolExecute$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolExecute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolSubmit$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/pool/TestThreadPoolSubmit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/tree/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/util/encod/Encoding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/qiandao/util/id/IdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/myTestWorkspace_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/asm_3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/beanstalkc_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/cglib_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/guava_20_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/guava_20_0_sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/log4j_jcl_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lombok_1_18_11_97.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_core_5_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_webmvc_5_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1cf906b37b429e2cd3ffc010578e1569ae4d847f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f67e80a8580fc57674ccdea15e442a3e9ae73e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e94cc1d0934078b09e512fcfa7ef0f3de9e7f1ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/learn.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/learn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myTestWorkspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/META-INF/myTestWorkspace.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/IsDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/IsDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/PayProductTypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/PayProductTypeEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$ActivityStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$ActivityStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$ActivityType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$ActivityType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$AwardType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$AwardType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$BannerStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$BannerStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$BannerType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$BannerType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$ConfigType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$ConfigType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$EventType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$EventType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$IsRequired.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$IsRequired.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$LessonType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$LessonType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$PayStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$PayStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$PrizeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$PrizeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$ProductStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$ProductStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$ProductType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$ProductType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum$WechatMsgType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum$WechatMsgType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/QcEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/QcEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/enums/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/CustomThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/CustomThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/InterruptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/InterruptTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/MutilThreadShareVariable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/MutilThreadShareVariable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataDec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataInc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/MutilThreadShareVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/Outputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/Outputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/SynchronizedTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/SynchronizedTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/SynchronizedTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/SynchronizedTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/SynchronizedTest$Outputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/SynchronizedTest$Outputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/SynchronizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/ThreadInterruptedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/ThreadInterruptedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/WaitnotifyTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/WaitnotifyTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java/thread/WaitnotifyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java/thread/WaitnotifyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java8/stream/FirstJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/FirstJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java8/stream/Java8GroupingBy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java8/stream/Java8StreamPartialExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/Java8StreamPartialExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java8/stream/Java8Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/Java8Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/java8/stream/PeekParallel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/jedis/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/jedis/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/jedis/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/jedis/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/jedis/RedisJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/jedis/RedisJava.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/InterfaceUnVoidWithNoParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/InterfaceUnVoidWithNoParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/InterfaceUnVoidWithParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/InterfaceUnVoidWithParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/InterfaceWithNoParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/InterfaceWithNoParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/InterfaceWithParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/InterfaceWithParams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/impl/TestJava8$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/impl/TestJava8$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/impl/TestJava8$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/impl/TestJava8$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/impl/TestJava8$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/impl/TestJava8$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/impl/TestJava8$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/impl/TestJava8$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/lambda/impl/TestJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/lambda/impl/TestJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/log/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/log/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/log/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/model/SysConfigPackageIdAndProductId.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/SysConfigPackageIdAndProductId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/Toy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/Toy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/hungry/SingleTonEhangshi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/hungry/SingleTonEhangshi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/hungry/SingletonEnum$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/hungry/SingletonEnum$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/hungry/SingletonEnum$EnumHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/hungry/SingletonEnum$EnumHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/hungry/SingletonEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/hungry/SingletonEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingleTonLhangshi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingleTonLhangshi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingleTonLhangshiSync.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingleTonLhangshiSync.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingletonDoubleCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingletonHolder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/SingletonHolder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingletonHolder$Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/single/instance/lazy/VolatileSingletonDoubleCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/single/instance/lazy/VolatileSingletonDoubleCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Java8Tester$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Java8Tester$GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Java8Tester$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/Java8Tester$MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Java8Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/LearnJavaIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/test/LearnJavaIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/test/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/util/encod/Encoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/com/qiandao/util/id/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/fastjson-1.2.59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/jedis-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/log4j-api-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/log4j-core-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/lib/log4j-jcl-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/myTestWorkspace_war_exploded/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/META-INF/myTestWorkspace.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/DemoMain$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain$C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DemoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/DistributedLockUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/WedUe$We.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/WedUe$We.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/WedUe$Wed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/WedUe$Wed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/WedUe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/WedUe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/abstract2/test/Jredis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/abstract2/test/Jredis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/abstract2/test/Luccen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/abstract2/test/Luccen$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/abstract2/test/Luccen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/abstract2/test/Luccen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/abstract2/test/Redis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/abstract2/test/Redis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$ch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa$fa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/adsdsa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/big/decimal/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/big/decimal/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/constant/MvpAutoPullLpStatusEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/constant/MvpAutoPullLpStatusEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/constant/VipkidOrg$Org.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/constant/VipkidOrg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/delayqueue/TaskConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/delayqueue/TaskConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/delayqueue/TaskManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/delayqueue/TaskManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/delayqueue/TaskMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/delayqueue/TaskMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/adapter/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/adapter/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/adapter/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/adapter/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/adapter/Turkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/adapter/Turkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/adapter/TurkeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/adapter/TurkeyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/adapter/WildTurkey.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/adapter/WildTurkey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/builder/AbstractStringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/builder/AbstractStringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/builder/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/builder/StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/builder/StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/chain/of/responsibility/RequestType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/chain/of/responsibility/RequestType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/Beverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/Beverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/CondimentDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/CondimentDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/DarkRoast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/DarkRoast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/HouseBlend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/HouseBlend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/Milk.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/Milk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/decorator/Mocha.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/decorator/Mocha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/factory/method/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/factory/method/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/factory/method/ConcreteFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/factory/method/ConcreteFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/factory/method/ConcreteFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/factory/method/ConcreteFactory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/factory/method/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/factory/method/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/CurrentConditionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/StatisticsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/StatisticsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/observer/WeatherStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/observer/WeatherStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/prototype/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/prototype/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/prototype/ConcretePrototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/prototype/ConcretePrototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/prototype/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/prototype/Prototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/proxy/HighResolutionImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/proxy/HighResolutionImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/proxy/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/proxy/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/proxy/ImageProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/proxy/ImageProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/proxy/ImageViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/proxy/ImageViewer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/ConcreteProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/ConcreteProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/ConcreteProduct1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/ConcreteProduct1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/ConcreteProduct2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/ConcreteProduct2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/simple/factory/SimpleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/simple/factory/SimpleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/singleton/Singleton2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/singleton/Singleton2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/singleton/Singleton2$SingletonHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/singleton/Singleton2$SingletonHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/singleton/Singleton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/singleton/Singleton2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/singleton/Singleton3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/singleton/Singleton3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/strategy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/strategy/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/strategy/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/strategy/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/strategy/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/strategy/QuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/strategy/QuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/strategy/Squeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/strategy/Squeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/template/method/CaffeineBeverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/template/method/CaffeineBeverage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/template/method/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/template/method/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/template/method/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/template/method/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/design/pattern/template/method/Tea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/design/pattern/template/method/Tea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/IconUrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/IconUrl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/IsDelete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/PayProductTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$ActivityStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$ActivityType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$AwardType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$BannerStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$BannerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$ConfigType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$EventType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$IsRequired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$LessonType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$PayStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$PrizeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$ProductStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$ProductType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum$WechatMsgType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/QcEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/TestOperator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/TestOperator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/TestOperator$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/TestOperator$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/TestOperator$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/TestOperator$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/TestOperator$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/TestOperator$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/enums/TestOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/enums/TestOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/id/SnowflakeIdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/CustomThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/InterruptTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/MutilThreadShareVariable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/MutilThreadShareVariable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataDec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/MutilThreadShareVariable$ShareDataInc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/MutilThreadShareVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/Outputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/SynchronizedTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/SynchronizedTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/SynchronizedTest$Outputer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/SynchronizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/ThreadInterruptedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/WaitnotifyTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/thread/WaitnotifyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java/timestamp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/java8/stream/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/FirstJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/Java8GroupingBy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/Java8StreamPartialExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/Java8Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/java8/stream/PeekParallel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/jedis/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/jedis/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/jedis/RedisJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/InterfaceUnVoidWithNoParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/InterfaceUnVoidWithParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/InterfaceWithNoParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/InterfaceWithParams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/impl/TestJava8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/impl/TestJava8$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/impl/TestJava8$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/impl/TestJava8$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/lambda/impl/TestJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/AD1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/AD1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/AD2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/AD2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/AD3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/AD3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/D1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/D1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/D2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/D2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/D3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/D3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/MQTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/MQTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/MethodArgumentNotValidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/MethodArgumentNotValidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main$RedisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/cglib/MyMethodInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/dynamic/proxy/cglib/MyMethodInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/dynamic/proxy/jdk/LogHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/proxyStatic/UserManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/proxyStatic/UserManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/proxyStatic/impl/UserManagerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/proxyStatic/impl/UserManagerImplProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/proxyStatic/impl/UserManagerImplProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/thread/CompletableFutureDemo$D2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/thread/CompletableFutureDemo$D2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/thread/CompletableFutureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/thread/CompletableFutureDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/thread/FutureDemo$D1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/thread/FutureDemo$D1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/thread/FutureDemo$D2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/thread/FutureDemo$D2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/learn/thread/FutureDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/learn/thread/FutureDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/log/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/log/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/log/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/BaseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/BaseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/ClassA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/ClassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/StudyPlanQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/model/StudyPlanQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/model/SysConfigPackageIdAndProductId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/search/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/Toy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/Toy$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/hungry/SingleTonEhangshi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/hungry/SingletonEnum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/hungry/SingletonEnum$EnumHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/hungry/SingletonEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingleTonLhangshi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingleTonLhangshiSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingletonDoubleCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingletonHolder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingletonHolder$Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/single/instance/lazy/VolatileSingletonDoubleCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/HeerSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/PubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/Quick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/AlgorithmVs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/FindMedian$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/FindMedian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/TreeSort$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/sorts2/TreeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/ConstDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/ConstDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/GenericTest$Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/GenericTest$Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/GenericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/as.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/as.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/asd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/asd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/statict/asds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/statict/asds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Java8Tester$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Java8Tester$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Java8Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/LearnJavaIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/test/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/ThreadPoolUtils$RecommendWallExecutorExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/ThreadPoolUtils$RecommendWallExecutorExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/ThreadPoolUtils$homeThirdExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/ThreadPoolUtils$homeThirdExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/ThreadPoolUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/ThreadPoolUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/schedule/ConfigPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/schedule/ConfigPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/schedule/DynamicConfLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/schedule/DynamicConfLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/thread/schedule/ScheduleWithFixedDelayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/thread/schedule/ScheduleWithFixedDelayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/tree/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/util/encod/Encoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/util/id/IdWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/com/qiandao/util/log/LogUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qiandao/util/log/LogUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/myTestWorkspace/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/DemoMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/DistributedLockUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/WedUe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/abstract2/test/Jredis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/abstract2/test/Luccen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/abstract2/test/Redis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/adsdsa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/big/decimal/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/constant/MvpAutoPullLpStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/constant/MvpAutoPullLpStatusEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/constant/VipkidOrg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/delayqueue/TaskConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/delayqueue/TaskManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/delayqueue/TaskMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/adapter/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/adapter/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/adapter/Turkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/adapter/TurkeyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/adapter/WildTurkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/builder/AbstractStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/builder/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/builder/StringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/ConcreteHandler2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/Handler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/chain/of/responsibility/RequestType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/Beverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/CondimentDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/DarkRoast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/HouseBlend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/Milk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/decorator/Mocha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/factory/method/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/factory/method/ConcreteFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/factory/method/ConcreteFactory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/factory/method/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/CurrentConditionsDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/StatisticsDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/WeatherData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/observer/WeatherStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/prototype/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/prototype/ConcretePrototype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/prototype/Prototype.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/proxy/HighResolutionImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/proxy/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/proxy/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/proxy/ImageViewer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/ConcreteProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/ConcreteProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/ConcreteProduct1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/ConcreteProduct2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/design/pattern/simple/factory/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/simple/factory/SimpleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/singleton/Singleton2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/singleton/Singleton3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/strategy/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/strategy/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/strategy/Quack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/strategy/QuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/strategy/Squeak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/template/method/CaffeineBeverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/template/method/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/template/method/Coffee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/design/pattern/template/method/Tea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/enums/IconUrl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/enums/IsDelete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/enums/PayProductTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/enums/PayProductTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/enums/QcEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/enums/QcEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/enums/TestOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/id/SnowflakeIdWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/CustomThreadPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/InterruptTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/MutilThreadShareVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/SynchronizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/ThreadInterruptedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/thread/WaitnotifyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java/timestamp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/FirstJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/java8/stream/FirstJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/Java8GroupingBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/Java8StreamPartialExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/Java8Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/java8/stream/PeekParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/jedis/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/jedis/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/jedis/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/jedis/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/jedis/RedisJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/lambda/InterfaceUnVoidWithNoParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/lambda/InterfaceUnVoidWithParams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/lambda/InterfaceWithNoParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/lambda/InterfaceWithParams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/lambda/impl/TestJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/AD1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/AD2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/AD2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/AD3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/AD3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/D1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/D1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/D2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/D3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/MQTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/MethodArgumentNotValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/learn/MethodArgumentNotValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/TestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/dynamic/proxy/cglib/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/dynamic/proxy/cglib/MyMethodInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/dynamic/proxy/jdk/LogHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/proxy/static/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/proxy/static/impl/UserManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/proxy/static/impl/UserManagerImplProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/thread/CompletableFutureDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/learn/thread/FutureDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/log/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/log/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/log/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/BaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/ClassA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/ClassB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/StudyPlanQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/model/SysConfigPackageIdAndProductId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/model/SysConfigPackageIdAndProductId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/search/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/Toy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/hungry/SingleTonEhangshi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/hungry/SingletonEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/lazy/SingleTonLhangshi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/lazy/SingleTonLhangshiSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/lazy/SingletonDoubleCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/lazy/SingletonHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/single/instance/lazy/VolatileSingletonDoubleCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/HeerSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/PubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/Quick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/AlgorithmVs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/FindMedian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/TreeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/sorts2/image/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qiandao/sorts/add/image/tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/ConstDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/GenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/as.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/asd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/statict/asds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/test/Java8Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/test/LearnJavaIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/test/StreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/MyCallable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/ThreadMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/ThreadPoolUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/schedule/ConfigPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/schedule/DynamicConfLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/thread/schedule/ScheduleWithFixedDelayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/tree/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/util/encod/Encoding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/util/id/IdWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qiandao/util/log/LogUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\D\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\D\apache-maven-3.6.1\conf\settings-vipkid.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p0hVdfwUAoY7cR2OPmnEOCbBhT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/qiandao/learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\xiangmu\learn\src\main\resources" />
+      <recent name="C:\D\xiangmu\learn\src" />
+      <recent name="C:\D\xiangmu\learn\src\main\java\com\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\D\xiangmu\learn\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.C">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qiandao.aa.za.C" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiandao.aa.za.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qiandao.learn.dynamic.proxy.cglib.Main" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiandao.learn.dynamic.proxy.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoBigNubmerAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qiandao.sorts.add.TwoBigNubmerAdd" />
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiandao.sorts.add.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiandao.aa.za.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qiandao.aa.za" />
+      <option name="MAIN_CLASS_NAME" value="com.qiandao.aa.za.B" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ma.demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiandao.sorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qiandao.sorts" />
+      <option name="MAIN_CLASS_NAME" value="com.qiandao.sorts.ma" />
+      <option name="METHOD_NAME" value="demo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="learn:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/learn_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="learn:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C" />
+        <item itemvalue="JUnit.B.main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.TwoBigNubmerAdd" />
+        <item itemvalue="JUnit.ma.demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b97100-c275-4e08-bc2f-eb38201e4810" name="Default Changelist" comment="" />
+      <created>1614325941705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614325941705</updated>
+      <workItem from="1614325943415" duration="424000" />
+      <workItem from="1614386103094" duration="11772000" />
+      <workItem from="1614472344109" duration="3247000" />
+      <workItem from="1614505066464" duration="1926000" />
+      <workItem from="1614558603931" duration="4295000" />
+      <workItem from="1614589676668" duration="97000" />
+      <workItem from="1614610270650" duration="545000" />
+      <workItem from="1614646275214" duration="8609000" />
+      <workItem from="1614731664255" duration="8524000" />
+      <workItem from="1614819383682" duration="9801000" />
+      <workItem from="1614872633134" duration="1456000" />
+      <workItem from="1614905360210" duration="10673000" />
+      <workItem from="1614950812306" duration="249000" />
+      <workItem from="1614951078106" duration="325000" />
+      <workItem from="1614951423145" duration="3214000" />
+      <workItem from="1614990316426" duration="7631000" />
+      <workItem from="1615080659006" duration="3561000" />
+      <workItem from="1615164945323" duration="2891000" />
+      <workItem from="1615204310909" duration="4199000" />
+      <workItem from="1615248927513" duration="5860000" />
+      <workItem from="1615336667999" duration="7394000" />
+      <workItem from="1615385919537" duration="1060000" />
+      <workItem from="1615424864415" duration="7526000" />
+      <workItem from="1615466762798" duration="1593000" />
+      <workItem from="1615509493919" duration="13147000" />
+      <workItem from="1615594424027" duration="8119000" />
+      <workItem from="1615620901058" duration="1265000" />
+      <workItem from="1615635089457" duration="602000" />
+      <workItem from="1615713298960" duration="4040000" />
+      <workItem from="1615766836628" duration="7487000" />
+      <workItem from="1615853579116" duration="4354000" />
+      <workItem from="1615939167003" duration="1592000" />
+      <workItem from="1616032817565" duration="2613000" />
+      <workItem from="1616059564502" duration="2891000" />
+      <workItem from="1616141375472" duration="1213000" />
+      <workItem from="1616210096932" duration="2161000" />
+      <workItem from="1616230635120" duration="1247000" />
+      <workItem from="1616285406210" duration="8861000" />
+      <workItem from="1616372540533" duration="5917000" />
+      <workItem from="1616417295580" duration="2238000" />
+      <workItem from="1616457127352" duration="5453000" />
+      <workItem from="1616544586519" duration="2701000" />
+      <workItem from="1616568434762" duration="4422000" />
+      <workItem from="1616982774441" duration="53000" />
+      <workItem from="1616982903265" duration="118000" />
+      <workItem from="1617022092134" duration="4333000" />
+      <workItem from="1617069557587" duration="3020000" />
+      <workItem from="1617172804196" duration="553000" />
+      <workItem from="1617243596679" duration="2973000" />
+      <workItem from="1617324634450" duration="2246000" />
+      <workItem from="1617336391993" duration="575000" />
+      <workItem from="1617417897258" duration="1774000" />
+      <workItem from="1617496732355" duration="3492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
